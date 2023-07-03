@@ -50,6 +50,7 @@
     <br>
     <button onclick="restart()">Start again</button>
 </c:if>
+
 <script>
 
     function restart() {
